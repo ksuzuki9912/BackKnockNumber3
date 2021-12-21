@@ -28,11 +28,11 @@ import android.view.View;//イベントの発生源をViewオブジェクトに�
 import android.widget.Toast;//Toast表示を使えるようにする
 
 
-//import com.github.mikephil.charting.data.Entry;
-//import com.github.mikephil.charting.data.LineData;
-//import com.github.mikephil.charting.charts.LineChart;//LineChartを利用できるようにする
-//import com.github.mikephil.charting.data.LineDataSet;
-//import com.github.mikephil.charting.interfaces.datasets.ILineDataSet;
+import com.github.mikephil.charting.data.Entry;
+import com.github.mikephil.charting.data.LineData;
+import com.github.mikephil.charting.charts.LineChart;//LineChartを利用できるようにする
+import com.github.mikephil.charting.data.LineDataSet;
+import com.github.mikephil.charting.interfaces.datasets.ILineDataSet;
 //ファイル操作用
 import android.content.Context;
 
